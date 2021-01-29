@@ -18,6 +18,6 @@ public class Main {
         for(int i=0; i< cat.length;i++){
             cat[i].getSatiety();
         }
-
     }
+    ///main
 }

@@ -97,4 +97,5 @@ public class Cat {
     public void setDamage(int damage) {
         this.damage = damage;
     }
+    //lesson
 }
